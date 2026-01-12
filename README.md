@@ -3,6 +3,10 @@
 ## University of Chicago Harris School of Public Policy
 ## Peter Ganong and Maggie Shi
 
+# Minilesson Recordings
+
+Found [here](https://uchicago.app.box.com/folder/359280505901?s=zdgwdq3hrg0d888pwexrjb9matlaocq3), too big to push to the student repo
+
 # Repository Structure
 
 Lectures are stored in the `lectures` folder. Within each folder, each lecture will have its own folder with slides. 
